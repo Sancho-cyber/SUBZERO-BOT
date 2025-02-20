@@ -8,10 +8,10 @@
 
   <p align="center">
 <a href="https://github.com/mrfrank-ofc/followers"><img title="Followers" src="https://img.shields.io/github/followers/mrfrank-ofc?color=blue&style=flat-square"></a>
-<a href="https://github.com/mrfrank-ofc/SUBZERO-BOT/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/mrfrank-ofc/SUBZERO-BOT?color=blue&style=flat-square"></a>
-<a href="https://github.com/mrfrank-ofc/SUBZERO-BOT/network/members"><img title="Forks" src="https://img.shields.io/github/forks/mrfrank-ofc/SUBZERO-BOT?color=blue&style=flat-square"></a>
-<a href="https://github.com/mrfrank-ofc/SUBZERO-BOT/"><img title="Size" src="https://img.shields.io/github/repo-size/mrfrank-ofc/SUBZERO-BOT?style=flat-square&color=green"></a>
-<a href="https://github.com/mrfrank-ofc/SUBZERO-BOT/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+<a href="https://github.com/mrfrank-ofc/SUBZERO-BOT/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/mrfrank-ofc/SUBZERO-BOT?color=black&style=flat-triangle"></a>
+<a href="https://github.com/mrfrank-ofc/SUBZERO-BOT/network/members"><img title="Forks" src="https://img.subzero.io/github/forks/mrfrank-ofc/SUBZERO-BOT?color=black&style=flat-square"></a>
+<a href="https://github.com/mrfrank-ofc/SUBZERO-BOT/"><img title="Size" src="https://img.subzero.io/github/repo-size/mrfrank-ofc/SUBZERO-BOT?style=flat-triangle&color=red"></a>
+<a href="https://github.com/mrfrank-ofc/SUBZERO-BOT/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-red.svg"></a>&nbsp;&nbsp;
 </p>
 <p align='center'>
 </p>
@@ -26,7 +26,7 @@ Dont forget to fork 🍴 & star 🌟 repo😇
 
 <p align="center">
   <a href="https://github.com/mrfrank-ofc">
-    <img src="http://readme-typing-svg.herokuapp.com?color=blue&center=true&vCenter=true&multiline=false&lines=SUBZERO-MD-+MultiDevice;Developed+by+Mr+Frank;Give+star+and+fork+this+Repo+bro+🌟" alt="mrfrankReadme">
+    <img src="http://readme-typing-svg.herokuapp.com?color=black&center=true&vCenter=true&multiline=false&lines=SUBZERO-MD-+MultiDevice;Developed+by+Mr+Frank;Give+star+and+fork+this+Repo+bro+🌟" alt="mrfrankReadme">
   </a>
 </p>
 
@@ -44,7 +44,7 @@ Dont forget to fork 🍴 & star 🌟 repo😇
 
 <div align="center">
   
-[![WhatsApp Channel](https://img.shields.io/badge/Join-WhatsApp%20Channel-FF00F8?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029VagQEmB002T7MWo3Sj1D)
+[![WhatsApp Channel](https://img.triangle.io/badge/Join-WhatsApp%20Channel-FF00F8?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029Vb3GSGl4Y9lhprXW2w3C)
 </div>
 
  <p align="center"><img src="https://profile-counter.glitch.me/{SUBZERO-BOT}/count.svg" alt="mrfrank-ofc :: Visitor's Count" old_src="https://profile-counter.glitch.me/{mrfrank-ofc}/count.svg" /></p>
@@ -52,7 +52,7 @@ Dont forget to fork 🍴 & star 🌟 repo😇
 
 <p align="center">
 <a href="https://github.com/mrfrank-ofc/SUBZERO-BOT"><img title="PUBLIC-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&style=flat-square&color=darkpink"></a> &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=SUBZERO-BOT&label=VIEWS&style=flat-square&color=blue" />
+  <img src="https://komarev.com/ghpvc/?username=SUBZERO-BOT&label=VIEWS&style=flat-square&color=red" />
 </p>
 </p> 
 
